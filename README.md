@@ -24,7 +24,7 @@ El sistema se estructura en torno a una serie de entidades que se relacionan de 
 
 
 
-2. Identificación de los casos de uso y elaboración del diagrama
+3. Identificación de los casos de uso y elaboración del diagrama
 Para comprender cómo interactúan los actores con el sistema, necesitamos identificar los casos de uso más relevantes. Esto permite representar gráficamente las funcionalidades clave mediante un diagrama de casos de uso UML, facilitando así el análisis y diseño del sistema.
 Interacciones clave del Administrador
 El administrador es el actor principal, con acceso a las siguientes funcionalidades:
